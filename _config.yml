@@ -5,3 +5,6 @@ show_downloads: false
 github:
    is_project_page: false
 
+$(".theme-switch").on("click", () => {
+  $("body").toggleClass("light-theme");
+});
