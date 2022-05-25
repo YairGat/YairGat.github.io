@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: Yair Gat
 logo: Other/profile.png
+description: yairorigat dot mail at gmail dot com
 show_downloads: false
 github:
    is_project_page: false
