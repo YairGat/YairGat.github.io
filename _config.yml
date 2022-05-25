@@ -5,5 +5,7 @@ description: yairorigat dot mail at gmail dot com
 show_downloads: false
 github:
    is_project_page: false
-
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Mail, icon: envelope, url: "mailto:yairorigat@gmail.com"}
+  - {title: LinkdIn, icon: linkdin, url: "https://www.linkedin.com/in/yair-gat/"}
 
