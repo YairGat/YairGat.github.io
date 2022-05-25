@@ -2,6 +2,6 @@ theme: jekyll-theme-minimal
 title: Yair Gat
 # description: (I roughly look like this)
 logo: Other/profile.png
-# show_downloads: false
-# github:
-   #is_project_page: false
+show_downloads: false
+github:
+   is_project_page: false
