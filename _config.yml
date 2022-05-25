@@ -4,4 +4,6 @@ logo: Other/profile.png
 show_downloads: false
 github:
    is_project_page: false
-theme: minima
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-them
