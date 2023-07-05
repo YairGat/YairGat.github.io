@@ -10,7 +10,6 @@ Eldar David Abraham¹, Karel D'Oosterlinck²ʼ³, Amir Feder¹, **Yair Ori Gat¹
 
 ¹Technion – Israel Institute of Technology &nbsp; ²Stanford University &nbsp; ³Ghent University.
 
-Accepted paper at NeurIPS 2022.
 
 
 [<img alt="LinkedIn" height= "40px" width="40px" src="Other/LinkedIn.png" />](https://www.linkedin.com/in/yair-gat/) 
