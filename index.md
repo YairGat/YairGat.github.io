@@ -5,12 +5,12 @@ The topics of my research are NLP and causal inference.
 
 # Publications
 
-### [CEBaB: Estimating the Causal Effects of Real-World Concepts on NLP Model Behavior](https://arxiv.org/abs/2205.14140)
-, Neurips 2022
+### [CEBaB: Estimating the Causal Effects of Real-World Concepts on NLP Model Behavior](https://arxiv.org/abs/2205.14140) 
 
 Eldar David Abraham¹, Karel D'Oosterlinck²ʼ³, Amir Feder¹, **Yair Ori Gat¹**, Atticus Geiger², Christopher Potts², Roi Reichart¹, Zhengxuan Wu²
 
 ¹Technion – Israel Institute of Technology &nbsp; ²Stanford University &nbsp; ³Ghent University.
+{XE "Published at Neurips 2022"}
 
 
 
