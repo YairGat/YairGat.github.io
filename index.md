@@ -10,7 +10,8 @@ The topics of my research are NLP and causal inference.
 Eldar David Abraham¹, Karel D'Oosterlinck²ʼ³, Amir Feder¹, **Yair Ori Gat¹**, Atticus Geiger², Christopher Potts², Roi Reichart¹, Zhengxuan Wu²
 
 ¹Technion – Israel Institute of Technology &nbsp; ²Stanford University &nbsp; ³Ghent University.
-_Neurips 2022_
+
+_Published at Neurips 2022_
 
 
 [<img alt="LinkedIn" height= "40px" width="40px" src="Other/LinkedIn.png" />](https://www.linkedin.com/in/yair-gat/) 
