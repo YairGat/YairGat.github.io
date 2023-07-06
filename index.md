@@ -11,7 +11,7 @@ Eldar David Abraham¹, Karel D'Oosterlinck²ʼ³, Amir Feder¹, **Yair Ori Gat¹
 
 ¹Technion – Israel Institute of Technology &nbsp; ²Stanford University &nbsp; ³Ghent University.
 
-_ All authors contributed equally; Names are in alphabetic order. NeuRIPS 2022_
+_All authors contributed equally; Names are in alphabetic order. NeuRIPS 2022_
 
 
 [<img alt="LinkedIn" height= "40px" width="40px" src="Other/LinkedIn.png" />](https://www.linkedin.com/in/yair-gat/) 
