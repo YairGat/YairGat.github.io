@@ -17,6 +17,7 @@ _All authors contributed equally; Names are in alphabetic order. NeuRIPS 2022_
 ### [Faithful Explanations of Black-box NLP Models Using LLM-generated Counterfactuals.](https://arxiv.org/abs/2310.00603) 
 
 ** Yair Gat ** (+), Nitay Calderon (+), Alexander Chapanin, Amir Feder, Amit Sharma and Roi Reichart. 
+
 (+) Authors equally contributed to the paper.
 
 
